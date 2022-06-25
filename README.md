@@ -1,1 +1,2 @@
-my read ne 
+#!/bin/bash
+my read me
